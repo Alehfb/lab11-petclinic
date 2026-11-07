@@ -7,6 +7,7 @@
 * **Docente:** Jean Marco Miranda Llanos
 * **Alumno:** Follano Barrientos, Gersi Alexander
 * **Grupo:** E (Desarrollo Individual)
+* **Repositorio GitHub:** https://github.com/Alehfb/lab11-petclinic
 
 ---
 
